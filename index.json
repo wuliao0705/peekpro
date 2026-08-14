@@ -82,10 +82,10 @@
       "filterable": 1
     },
     {
-      "key": "seqingpianyuan",
-      "name": "色情片源",
+      "key": "seqing_pianyuan",
+      "name": "色情_片源",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/wuliao0705/peekpro/refs/heads/main/色情片源.py",
+      "api": "https://raw.githubusercontent.com/wuliao0705/peekpro/refs/heads/main/色情_片源.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -109,10 +109,10 @@
       "filterable": 1
     },
     {
-      "key": "seqingfennen",
-      "name": "色情粉嫩",
+      "key": "seqing_fennen",
+      "name": "色情_粉嫩",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/wuliao0705/peekpro/refs/heads/main/色情粉嫩.py",
+      "api": "https://raw.githubusercontent.com/wuliao0705/peekpro/refs/heads/main/色情_粉嫩.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
