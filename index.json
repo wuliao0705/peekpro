@@ -1,0 +1,40 @@
+{
+  "sites": [
+    {
+      "key": "asmr_zj",
+      "name": "Asmr【正经】",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xiusir123/tvbox/main/Asmr【正经】.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "sudugu",
+      "name": "速读谷【正经】",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xiusir123/tvbox/main/速读谷【正经】.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "diyidm",
+      "name": "第一动漫【正经】",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xiusir123/tvbox/main/第一动漫【正经】.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "fenlei_shi",
+      "name": "分类多【涩】",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xiusir123/tvbox/main/分类多【涩】.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ]
+}
