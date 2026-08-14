@@ -280,7 +280,7 @@
       "filterable": 1
     },
     {
-      "key": "qita_youtube",
+      "key": "qita_youguan",
       "name": "其他_油管",
       "type": 3,
       "api": "https://raw.githubusercontent.com/wuliao0705/peekpro/refs/heads/main/其他_油管.py",
