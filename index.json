@@ -1,0 +1,202 @@
+{
+  "sites": [
+    {
+      "key": "zhu_mian_asmr",
+      "name": "助眠_Asmr",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xiusir123/tvbox/main/助眠_Asmr.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "zhu_mian_ting_yin",
+      "name": "助眠_听淫",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xiusir123/tvbox/main/助眠_听淫.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "zhu_mian_dan_dan",
+      "name": "助眠_蛋蛋",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xiusir123/tvbox/main/助眠_蛋蛋.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "yue_du_su_du",
+      "name": "阅读_速读",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xiusir123/tvbox/main/阅读_速读.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "se_qing_vhub",
+      "name": "色情_Vhub",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xiusir123/tvbox/main/色情_Vhub.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "se_qing_jav",
+      "name": "色情_Jav",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xiusir123/tvbox/main/色情_Jav.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "se_qing_huo",
+      "name": "色情_Huo",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xiusir123/tvbox/main/色情_Huo.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "se_qing_asmr",
+      "name": "色情_Asmr",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xiusir123/tvbox/main/色情_Asmr.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "se_qing_qing_se",
+      "name": "色情_情色",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xiusir123/tvbox/main/色情_情色.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "se_qing_pian_yuan",
+      "name": "色情片源",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xiusir123/tvbox/main/色情片源.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "se_qing_jin_tian",
+      "name": "色情_今天",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xiusir123/tvbox/main/色情_今天.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "se_qing_he_ji",
+      "name": "色情_合集",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xiusir123/tvbox/main/色情_合集.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "se_qing_fen_nen",
+      "name": "色情粉嫩",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xiusir123/tvbox/main/色情粉嫩.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "se_qing_dong_man",
+      "name": "色情_动漫",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xiusir123/tvbox/main/色情_动漫.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "man_hua_ho5",
+      "name": "漫画_Ho5",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xiusir123/tvbox/main/漫画_Ho5.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "man_hua_aman",
+      "name": "漫画_Aman",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xiusir123/tvbox/main/漫画_Aman.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "man_hua_acg",
+      "name": "漫画_Acg",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xiusir123/tvbox/main/漫画_Acg.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "man_hua_wu_man",
+      "name": "漫画_污漫",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xiusir123/tvbox/main/漫画_污漫.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "man_hua_shi_han",
+      "name": "漫画_涩韩",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xiusir123/tvbox/main/漫画_涩韩.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "man_hua_jin_man",
+      "name": "漫画_禁漫",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xiusir123/tvbox/main/漫画_禁漫.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "man_hua_di_yi",
+      "name": "漫画_第一",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xiusir123/tvbox/main/漫画_第一.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "dong_man_h_man",
+      "name": "动漫_H漫",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/xiusir123/tvbox/main/动漫_H漫.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ]
+}
