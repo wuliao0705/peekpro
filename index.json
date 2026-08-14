@@ -83,7 +83,7 @@
     },
     {
       "key": "seqing_pianyuan",
-      "name": "色情片源",
+      "name": "色情_片源",
       "type": 3,
       "api": "https://raw.githubusercontent.com/wuliao0705/peekpro/refs/heads/main/色情片源.py",
       "searchable": 1,
@@ -110,7 +110,7 @@
     },
     {
       "key": "seqing_fennen",
-      "name": "色情粉嫩",
+      "name": "色情_粉嫩",
       "type": 3,
       "api": "https://raw.githubusercontent.com/wuliao0705/peekpro/refs/heads/main/色情粉嫩.py",
       "searchable": 1,
