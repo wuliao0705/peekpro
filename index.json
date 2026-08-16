@@ -10,6 +10,15 @@
       "filterable": 1
     },
     {
+      "key": "duanju_huangguo",
+      "name": "短剧_黄果",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/wuliao0705/peekpro/refs/heads/main/短剧_黄果.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "duanju_juhe",
       "name": "短剧_聚合",
       "type": 3,
@@ -32,24 +41,6 @@
       "name": "漫画_Aman",
       "type": 3,
       "api": "https://raw.githubusercontent.com/wuliao0705/peekpro/refs/heads/main/漫画_Aman.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "manhua_baozi",
-      "name": "漫画_包子",
-      "type": 3,
-      "api": "https://raw.githubusercontent.com/wuliao0705/peekpro/refs/heads/main/漫画_包子.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "manhua_diyi",
-      "name": "漫画_第一",
-      "type": 3,
-      "api": "https://raw.githubusercontent.com/wuliao0705/peekpro/refs/heads/main/漫画_第一.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -118,15 +109,6 @@
       "filterable": 1
     },
     {
-      "key": "seqingfennen",
-      "name": "色情粉嫩",
-      "type": 3,
-      "api": "https://raw.githubusercontent.com/wuliao0705/peekpro/refs/heads/main/色情粉嫩.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "seqing_heji",
       "name": "色情_合集",
       "type": 3,
@@ -163,15 +145,6 @@
       "filterable": 1
     },
     {
-      "key": "seqingpianyuan",
-      "name": "色情片源",
-      "type": 3,
-      "api": "https://raw.githubusercontent.com/wuliao0705/peekpro/refs/heads/main/色情片源.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "seqing_qingse",
       "name": "色情_情色",
       "type": 3,
@@ -190,10 +163,46 @@
       "filterable": 1
     },
     {
+      "key": "seqing_xingba",
+      "name": "色情_杏吧",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/wuliao0705/peekpro/refs/heads/main/色情_杏吧.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "seqing_yingge",
+      "name": "色情_影阁",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/wuliao0705/peekpro/refs/heads/main/色情_影阁.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "seqing_zhibo",
       "name": "色情_直播",
       "type": 3,
       "api": "https://raw.githubusercontent.com/wuliao0705/peekpro/refs/heads/main/色情_直播.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "seqingfennen",
+      "name": "色情粉嫩",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/wuliao0705/peekpro/refs/heads/main/色情粉嫩.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "seqingpianyuan",
+      "name": "色情片源",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/wuliao0705/peekpro/refs/heads/main/色情片源.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -244,10 +253,46 @@
       "filterable": 1
     },
     {
-      "key": "yuedu_sudu",
-      "name": "阅读_速读",
+      "key": "yingshi_diyi",
+      "name": "影视_第一",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/wuliao0705/peekpro/refs/heads/main/阅读_速读.py",
+      "api": "https://raw.githubusercontent.com/wuliao0705/peekpro/refs/heads/main/影视_第一.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "yingshi_douhua",
+      "name": "影视_豆花",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/wuliao0705/peekpro/refs/heads/main/影视_豆花.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "yingshi_fengye",
+      "name": "影视_枫叶",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/wuliao0705/peekpro/refs/heads/main/影视_枫叶.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "yingshi_shanzha",
+      "name": "影视_山楂",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/wuliao0705/peekpro/refs/heads/main/影视_山楂.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "yuedu_sudugu",
+      "name": "阅读_速读谷",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/wuliao0705/peekpro/refs/heads/main/阅读_速读谷.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
