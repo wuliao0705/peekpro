@@ -145,10 +145,28 @@
       "filterable": 1
     },
     {
+      "key": "seqing_kanav",
+      "name": "色情_看AV",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/wuliao0705/peekpro/refs/heads/main/色情_看AV.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "seqing_qingse",
       "name": "色情_情色",
       "type": 3,
       "api": "https://raw.githubusercontent.com/wuliao0705/peekpro/refs/heads/main/色情_情色.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "seqing_tuite",
+      "name": "色情_推特",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/wuliao0705/peekpro/refs/heads/main/色情_推特.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -167,6 +185,15 @@
       "name": "色情_杏吧",
       "type": 3,
       "api": "https://raw.githubusercontent.com/wuliao0705/peekpro/refs/heads/main/色情_杏吧.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "seqing_xp",
+      "name": "色情_xp",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/wuliao0705/peekpro/refs/heads/main/色情_xp.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -253,6 +280,15 @@
       "filterable": 1
     },
     {
+      "key": "yingshi_baipiaozhe",
+      "name": "影视_白嫖者",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/wuliao0705/peekpro/refs/heads/main/影视_白嫖者.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "yingshi_diyi",
       "name": "影视_第一",
       "type": 3,
@@ -280,6 +316,15 @@
       "filterable": 1
     },
     {
+      "key": "yingshi_pomo",
+      "name": "影视_pomo",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/wuliao0705/peekpro/refs/heads/main/影视_pomo.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "yingshi_shanzha",
       "name": "影视_山楂",
       "type": 3,
@@ -293,6 +338,15 @@
       "name": "阅读_速读谷",
       "type": 3,
       "api": "https://raw.githubusercontent.com/wuliao0705/peekpro/refs/heads/main/阅读_速读谷.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "yuedu_yedu",
+      "name": "阅读_夜读",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/wuliao0705/peekpro/refs/heads/main/阅读_夜读.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
