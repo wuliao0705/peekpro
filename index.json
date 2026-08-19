@@ -184,7 +184,7 @@
       "key": "seqing_juhecaiji",
       "name": "色情_聚合采集",
       "type": 3,
-      "api": "https://raw.githubusercontentcom/wuliao0705/peekpro/refs/heads/main/色情_聚合采集.py",
+      "api": "https://raw.githubusercontent.com/wuliao0705/peekpro/refs/heads/main/色情_聚合采集.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
