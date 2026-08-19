@@ -2,6 +2,23 @@
   "home": "<b>🎯 无聊专属接口</b><br><br>📢 群组：<a href=\"https://t.me/+eJw1zhbWM7gwZWFl\">无聊资源交流群</a><br><br>📌 接口大多数来着自己制作，部分来自网络搜集<br><br>⚠️ 如遇播放失败，请点击左上角切换线路。<br>本接口仅供学习交流，请勿用于商业用途。",
   "sites": [
     {
+      "key": "弹幕豆瓣",
+      "name": "弹幕",
+      "type": 3,
+      "api": "csp_SecureDanmu",
+      "searchable": 1,
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/goodcommunication/mydm/main/danmu-spider-native.jar",
+      "ext": {
+        "apiUrls": [
+          "https://danmu.iyo.us.ci/theft-dastardly-prognosis-hula-agenda2-dropkick|公益源",
+          "https://logo.saodu.work:8888/87654321|公益源1",
+          "https://dm.ljiaovm.com/luosen|公益源2"
+        ],
+        "titleMappingsUrl": "https://ghfast.top/https://raw.githubusercontent.com/goodcommunication/mydm/main/yins.json",
+        "filter": "./lib/douban.json"
+      }
+    },
+    {
       "key": "duanju_huangdou",
       "name": "短剧_黄豆",
       "type": 3,
@@ -119,6 +136,15 @@
       "filterable": 1
     },
     {
+      "key": "seqingfennen",
+      "name": "色情粉嫩",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/wuliao0705/peekpro/refs/heads/main/色情粉嫩.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "seqing_heji",
       "name": "色情_合集",
       "type": 3,
@@ -155,6 +181,17 @@
       "filterable": 1
     },
     {
+      "key": "seqing_juhecaiji",
+      "name": "色情_聚合采集",
+      "type": 3,
+      "api": "https://raw.githubusercontent.   
+ com/wuliao0705/peekpro/refs/heads/ main/色情_聚合采集.py",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 1
+    },
+    {
+    
       "key": "seqing_kanav",
       "name": "色情_看AV",
       "type": 3,
@@ -168,6 +205,24 @@
       "name": "色情_Msavx",
       "type": 3,
       "api": "https://raw.githubusercontent.com/wuliao0705/peekpro/refs/heads/main/色情_Msavx.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "seqingpianyuan",
+      "name": "色情片源",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/wuliao0705/peekpro/refs/heads/main/色情片源.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "seqing_pornhub",
+      "name": "色情_Pornhub",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/wuliao0705/peekpro/refs/heads/main/色情_Pornhub.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -218,6 +273,15 @@
       "filterable": 1
     },
     {
+      "key": "seqing_xvideos",
+      "name": "色情_Xvideos",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/wuliao0705/peekpro/refs/heads/main/色情_Xvideos.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "seqing_yiniu",
       "name": "色情_一牛",
       "type": 3,
@@ -240,24 +304,6 @@
       "name": "色情_直播",
       "type": 3,
       "api": "https://raw.githubusercontent.com/wuliao0705/peekpro/refs/heads/main/色情_直播.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "seqingfennen",
-      "name": "色情粉嫩",
-      "type": 3,
-      "api": "https://raw.githubusercontent.com/wuliao0705/peekpro/refs/heads/main/色情粉嫩.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "seqingpianyuan",
-      "name": "色情片源",
-      "type": 3,
-      "api": "https://raw.githubusercontent.com/wuliao0705/peekpro/refs/heads/main/色情片源.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -380,6 +426,15 @@
       "filterable": 1
     },
     {
+      "key": "yuedu_bacha",
+      "name": "阅读_八叉",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/wuliao0705/peekpro/refs/heads/main/阅读_八叉.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "yuedu_sudugu",
       "name": "阅读_速读谷",
       "type": 3,
@@ -438,6 +493,15 @@
       "name": "助眠_听淫",
       "type": 3,
       "api": "https://raw.githubusercontent.com/wuliao0705/peekpro/refs/heads/main/助眠_听淫.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "ziyuanguanli",
+      "name": "资源管理",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/wuliao0705/peekpro/refs/heads/main/资源管理.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
