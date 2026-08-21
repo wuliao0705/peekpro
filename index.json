@@ -2,23 +2,6 @@
   "home": "<b>🎯 无聊专属接口</b><br><br>📢 群组：<a href=\"https://t.me/+eJw1zhbWM7gwZWFl\">无聊资源交流群</a><br><br>📌 接口大多数来着自己制作，部分来自网络搜集<br><br>⚠️ 如遇播放失败，请点击左上角切换线路。<br>本接口仅供学习交流，请勿用于商业用途。",
   "sites": [
     {
-      "key": "弹幕豆瓣",
-      "name": "弹幕",
-      "type": 3,
-      "api": "csp_SecureDanmu",
-      "searchable": 1,
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/goodcommunication/mydm/main/danmu-spider-native.jar",
-      "ext": {
-        "apiUrls": [
-          "https://danmu.iyo.us.ci/theft-dastardly-prognosis-hula-agenda2-dropkick|公益源",
-          "https://logo.saodu.work:8888/87654321|公益源1",
-          "https://dm.ljiaovm.com/luosen|公益源2"
-        ],
-        "titleMappingsUrl": "https://ghfast.top/https://raw.githubusercontent.com/goodcommunication/mydm/main/yins.json",
-        "filter": "./lib/douban.json"
-      }
-    },
-    {
       "key": "duanju_huangdou",
       "name": "短剧_黄豆",
       "type": 3,
@@ -46,15 +29,6 @@
       "filterable": 1
     },
     {
-      "key": "juhe_xiaojiejie",
-      "name": "聚合_小姐姐",
-      "type": 3,
-      "api": "https://raw.githubusercontent.com/wuliao0705/peekpro/refs/heads/main/聚合_小姐姐.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "manhua_acg",
       "name": "漫画_Acg",
       "type": 3,
@@ -77,6 +51,25 @@
       "name": "漫画_Ho5",
       "type": 3,
       "api": "https://raw.githubusercontent.com/wuliao0705/peekpro/refs/heads/main/漫画_Ho5.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "manhua_manxiaosi",
+      "name": "漫画_漫小肆",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/wuliao0705/peekpro/refs/heads/main/漫画_漫小肆.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      
+      "key": "manhua_niaoniaohanman",
+      "name": "漫画_鸟鸟韩漫",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/wuliao0705/peekpro/refs/heads/main/漫画_鸟鸟韩漫.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -190,7 +183,6 @@
       "filterable": 1
     },
     {
-    
       "key": "seqing_kanav",
       "name": "色情_看AV",
       "type": 3,
@@ -344,6 +336,15 @@
       "filterable": 1
     },
     {
+      "key": "tingshu_456",
+      "name": "听书_456",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/wuliao0705/peekpro/refs/heads/main/听书_456.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "tingshu_yitingshu",
       "name": "听书_易听书",
       "type": 3,
@@ -371,6 +372,15 @@
       "filterable": 1
     },
     {
+      "key": "yingshi_chabeihu",
+      "name": "影视_茶杯狐",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/wuliao0705/peekpro/refs/heads/main/影视_茶杯狐.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "yingshi_diyi",
       "name": "影视_第一",
       "type": 3,
@@ -384,6 +394,15 @@
       "name": "影视_豆花",
       "type": 3,
       "api": "https://raw.githubusercontent.com/wuliao0705/peekpro/refs/heads/main/影视_豆花.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "yingshi_feikuai",
+      "name": "影视_飞快",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/wuliao0705/peekpro/refs/heads/main/影视_飞快.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
