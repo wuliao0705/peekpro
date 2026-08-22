@@ -2,6 +2,15 @@
   "home": "<b>🎯 无聊专属接口</b><br><br>📢 群组：<a href=\"https://t.me/+eJw1zhbWM7gwZWFl\">无聊资源交流群</a><br><br>📌 接口大多数来着自己制作，部分来自网络搜集<br><br>⚠️ 如遇播放失败，请点击左上角切换线路。<br>本接口仅供学习交流，请勿用于商业用途。",
   "sites": [
     {
+      "key": "asmr_hub",
+      "name": "Asmr_hub",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/wuliao0705/peekpro/refs/heads/main/Asmr_hub.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "duanju_huangdou",
       "name": "短剧_黄豆",
       "type": 3,
@@ -65,7 +74,6 @@
       "filterable": 1
     },
     {
-      
       "key": "manhua_niaoniaohanman",
       "name": "漫画_鸟鸟韩漫",
       "type": 3,
@@ -106,6 +114,15 @@
       "name": "色情_笔盒",
       "type": 3,
       "api": "https://raw.githubusercontent.com/wuliao0705/peekpro/refs/heads/main/色情_笔盒.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "seqing_douge",
+      "name": "色情_抖阁",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/wuliao0705/peekpro/refs/heads/main/色情_抖阁.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -426,6 +443,15 @@
       "filterable": 1
     },
     {
+      "key": "yingshi_juhe",
+      "name": "影视_聚合",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/wuliao0705/peekpro/refs/heads/main/影视_聚合.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "yingshi_pomo",
       "name": "影视_pomo",
       "type": 3,
@@ -526,3 +552,5 @@
     }
   ]
 }
+
+
