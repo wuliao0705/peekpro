@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 # TVBox爬虫 - 黄豆短剧 (完整API版)
 # 基于网站加密API实现，支持分类、搜索、播放
+# 修复：域名更新为 https://lzlukvca.cc
 
 import gzip
 import hashlib
@@ -58,15 +59,16 @@ class Spider(BaseSpider):
     def getName(self):
         return "黄豆短剧"
 
-    def init(self, extend=""):
-        self.host = "https://hdmgdj.com/"          # 主域名
-        self.api = self.host + "/api"              # API 基础地址
+    def __init__(self):
+        # 修复：使用当前有效域名
+        self.host = "https://lzlukvca.cc"
+        self.api = self.host + "/api"
         self.platform_key = "7961beb44246e3012ce228d6b5ced05a"
         self.version = "2.0.0"
         self.device_type = "web"
         self.session_id = uuid.uuid4().hex
         self.device_id = self.session_id
-        self.token = ""      # 如果需要登录可填写
+        self.token = ""
         self.headers = {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Accept": "*/*",
@@ -78,6 +80,21 @@ class Spider(BaseSpider):
         self.session.headers.update(self.headers)
         self.class_cache = None
         self.filter_cache = {}
+
+    def init(self, extend=""):
+        """允许通过 extend 传入 site 或 base_url 覆盖默认域名"""
+        if extend:
+            try:
+                cfg = json.loads(extend)
+                new_host = cfg.get("site") or cfg.get("base_url")
+                if new_host:
+                    self.host = new_host.rstrip("/")
+                    self.api = self.host + "/api"
+                    self.headers["Origin"] = self.host
+                    self.headers["Referer"] = self.host + "/home"
+                    self.session.headers.update(self.headers)
+            except Exception:
+                pass
 
     # ---------- 核心 API 请求 ----------
     def _api(self, path, data=None, silent=False):
